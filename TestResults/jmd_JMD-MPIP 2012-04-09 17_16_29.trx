@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="daca3085-c72b-4c27-b60a-fb04868fa68c" name="jmd@JMD-MPIP 2012-04-09 17:16:29" runUser="jmd-mpip\jmd" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="b11e7721-989e-4d2c-8ab1-e036b122d350">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestResults\jmd_JMD-MPIP 2012-04-09 17_16_29">
+      <DeploymentItem filename="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\bin\Debug\RetailStore.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="6" executed="6" error="0" failed="5" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2012-04-09T17:16:29.7220467+05:30" queuing="2012-04-09T17:16:33.9340541+05:30" start="2012-04-09T17:16:34.4176549+05:30" finish="2012-04-09T17:16:35.5720570+05:30" />
+  <TestDefinitions>
+    <UnitTest name="CreateInstanceTest" storage="d:\imp study\mp ip project 2012\retailstore\retailstore\testretailstore\bin\debug\testretailstore.dll" id="9fc127f1-39c7-340c-0c7b-2f870f347efb">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="20f1bc00-6d7f-4c0d-87ac-6cceb3e94be3" />
+      <TestMethod codeBase="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\bin\Debug\TestRetailStore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRetailStore.calculateDiscountTest, TestRetailStore" name="CreateInstanceTest" />
+    </UnitTest>
+    <UnitTest name="getNetAmountTest" storage="d:\imp study\mp ip project 2012\retailstore\retailstore\testretailstore\bin\debug\testretailstore.dll" id="6ab6b963-9a32-7786-691c-e72e16491203">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="b254e83b-a042-4860-b503-c6431575b38e" />
+      <TestMethod codeBase="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\bin\Debug\TestRetailStore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRetailStore.calculateDiscountTest, TestRetailStore" name="getNetAmountTest" />
+    </UnitTest>
+    <UnitTest name="getCustomerTypeTest" storage="d:\imp study\mp ip project 2012\retailstore\retailstore\testretailstore\bin\debug\testretailstore.dll" id="6d9742b7-7eb2-3855-f60e-a51e626c7e9f">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="0656fcc0-dffe-494c-94a8-6315056b3837" />
+      <TestMethod codeBase="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\bin\Debug\TestRetailStore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRetailStore.getDataTest, TestRetailStore" name="getCustomerTypeTest" />
+    </UnitTest>
+    <UnitTest name="getDiscountDataTest" storage="d:\imp study\mp ip project 2012\retailstore\retailstore\testretailstore\bin\debug\testretailstore.dll" id="a312e25f-5ca5-3d24-1795-0e09320c0c4a">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="826c7eca-ae7f-49cd-8f09-65cd24aa3d0d" />
+      <TestMethod codeBase="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\bin\Debug\TestRetailStore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRetailStore.getDataTest, TestRetailStore" name="getDiscountDataTest" />
+    </UnitTest>
+    <UnitTest name="calculateDiscountConstructorTest" storage="d:\imp study\mp ip project 2012\retailstore\retailstore\testretailstore\bin\debug\testretailstore.dll" id="271e87ee-d137-12e1-0f1c-41458a98a8fd">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <DeploymentItems>
+        <DeploymentItem filename="RetailStore.exe" />
+      </DeploymentItems>
+      <Execution id="2a28aeff-d8c2-4141-b8a3-6f44b06b1699" />
+      <TestMethod codeBase="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\bin\Debug\TestRetailStore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRetailStore.calculateDiscountTest, TestRetailStore" name="calculateDiscountConstructorTest" />
+    </UnitTest>
+    <UnitTest name="GetPercentageDiscountTest" storage="d:\imp study\mp ip project 2012\retailstore\retailstore\testretailstore\bin\debug\testretailstore.dll" id="1b59de55-6828-0fa4-c7e0-5afe21ac8872">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="c40c8a0b-4cb5-4e7c-b3be-8f1d742a1edc" />
+      <TestMethod codeBase="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\bin\Debug\TestRetailStore.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRetailStore.calculateDiscountTest, TestRetailStore" name="GetPercentageDiscountTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6d9742b7-7eb2-3855-f60e-a51e626c7e9f" executionId="0656fcc0-dffe-494c-94a8-6315056b3837" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a312e25f-5ca5-3d24-1795-0e09320c0c4a" executionId="826c7eca-ae7f-49cd-8f09-65cd24aa3d0d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1b59de55-6828-0fa4-c7e0-5afe21ac8872" executionId="c40c8a0b-4cb5-4e7c-b3be-8f1d742a1edc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ab6b963-9a32-7786-691c-e72e16491203" executionId="b254e83b-a042-4860-b503-c6431575b38e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9fc127f1-39c7-340c-0c7b-2f870f347efb" executionId="20f1bc00-6d7f-4c0d-87ac-6cceb3e94be3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="271e87ee-d137-12e1-0f1c-41458a98a8fd" executionId="2a28aeff-d8c2-4141-b8a3-6f44b06b1699" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0656fcc0-dffe-494c-94a8-6315056b3837" testId="6d9742b7-7eb2-3855-f60e-a51e626c7e9f" testName="getCustomerTypeTest" computerName="JMD-MPIP" duration="00:00:00.1033947" startTime="2012-04-09T17:16:34.5892553+05:30" endTime="2012-04-09T17:16:35.0416560+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;&gt;. Actual:&lt;NonExistingCust&gt;. </Message>
+          <StackTrace>   at TestRetailStore.getDataTest.getCustomerTypeTest() in D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\getDataTest.cs:line 77
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="826c7eca-ae7f-49cd-8f09-65cd24aa3d0d" testId="a312e25f-5ca5-3d24-1795-0e09320c0c4a" testName="getDiscountDataTest" computerName="JMD-MPIP" duration="00:00:00.0208908" startTime="2012-04-09T17:16:35.0728561+05:30" endTime="2012-04-09T17:16:35.1040562+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestRetailStore.getDataTest.getDiscountDataTest threw exception:  System.NullReferenceException: Object reference not set to an instance of an object..</Message>
+          <StackTrace>    at RetailStore.getData.getDiscountData(Hashtable dtDiscountData) in D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\DAL\getData.cs:line 14
+   at TestRetailStore.getDataTest.getDiscountDataTest() in D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\getDataTest.cs:line 90
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c40c8a0b-4cb5-4e7c-b3be-8f1d742a1edc" testId="1b59de55-6828-0fa4-c7e0-5afe21ac8872" testName="GetPercentageDiscountTest" computerName="JMD-MPIP" duration="00:00:00.0944252" startTime="2012-04-09T17:16:35.1352562+05:30" endTime="2012-04-09T17:16:35.2288564+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestRetailStore.calculateDiscountTest.GetPercentageDiscountTest threw exception:  System.NullReferenceException: Object reference not set to an instance of an object..</Message>
+          <StackTrace>    at RetailStore.calculateDiscount.GetPercentageDiscount(String custID) in D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\BAL\getDiscount.cs:line 34
+   at RetailStore.calculateDiscount_Accessor.GetPercentageDiscount(String custID)
+   at TestRetailStore.calculateDiscountTest.GetPercentageDiscountTest() in D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\calculateDiscountTest.cs:line 77
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b254e83b-a042-4860-b503-c6431575b38e" testId="6ab6b963-9a32-7786-691c-e72e16491203" testName="getNetAmountTest" computerName="JMD-MPIP" duration="00:00:00.0152822" startTime="2012-04-09T17:16:35.2444564+05:30" endTime="2012-04-09T17:16:35.2756565+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestRetailStore.calculateDiscountTest.getNetAmountTest threw exception:  System.NullReferenceException: Object reference not set to an instance of an object..</Message>
+          <StackTrace>    at RetailStore.calculateDiscount.getNetAmount(CustomerInfo oCustomerInfo) in D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\BAL\getDiscount.cs:line 39
+   at TestRetailStore.calculateDiscountTest.getNetAmountTest() in D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\calculateDiscountTest.cs:line 91
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="20f1bc00-6d7f-4c0d-87ac-6cceb3e94be3" testId="9fc127f1-39c7-340c-0c7b-2f870f347efb" testName="CreateInstanceTest" computerName="JMD-MPIP" duration="00:00:00.0148326" startTime="2012-04-09T17:16:35.2756565+05:30" endTime="2012-04-09T17:16:35.3068565+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;(null)&gt;. Actual:&lt;RetailStore.calculateDiscount&gt;. </Message>
+          <StackTrace>   at TestRetailStore.calculateDiscountTest.CreateInstanceTest() in D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\calculateDiscountTest.cs:line 105
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2a28aeff-d8c2-4141-b8a3-6f44b06b1699" testId="271e87ee-d137-12e1-0f1c-41458a98a8fd" testName="calculateDiscountConstructorTest" computerName="JMD-MPIP" duration="00:00:00.0184496" startTime="2012-04-09T17:16:35.3224565+05:30" endTime="2012-04-09T17:16:35.3380566+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. TODO: Implement code to verify target</Message>
+          <StackTrace>   at TestRetailStore.calculateDiscountTest.calculateDiscountConstructorTest() in D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestRetailStore\calculateDiscountTest.cs:line 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

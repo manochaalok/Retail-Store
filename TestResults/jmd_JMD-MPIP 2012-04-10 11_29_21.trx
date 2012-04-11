@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e313aa37-a1c2-4422-a96e-ecd439b83a22" name="jmd@JMD-MPIP 2012-04-10 11:29:21" runUser="jmd-mpip\jmd" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="b11e7721-989e-4d2c-8ab1-e036b122d350">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\TestResults\jmd_JMD-MPIP 2012-04-10 11_29_21">
+      <DeploymentItem filename="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\bin\Debug\RetailStore.exe" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Error">
+    <Counters total="5" executed="2" error="0" failed="0" timeout="0" aborted="1" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="3" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="JMD-MPIP" outcome="Error" timestamp="2012-04-10T11:29:24.5061764+05:30">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <Times creation="2012-04-10T11:29:21.4329710+05:30" queuing="2012-04-10T11:29:23.0397738+05:30" start="2012-04-10T11:29:23.4297745+05:30" finish="2012-04-10T11:29:24.5061764+05:30" />
+  <TestDefinitions>
+    <UnitTest name="getCustomerTypeTest" storage="d:\imp study\mp ip project 2012\retailstore\retailstore\retailstore_test\bin\debug\retailstore_test.dll" id="0dbd8dd6-d3a4-00ca-160b-242abd07d1e4">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="19746ed8-8a0c-4bcc-a7b6-d457b06b5d34" />
+      <TestMethod codeBase="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\bin\Debug\RetailStore_Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RetailStore_Test.getDataTest, RetailStore_Test" name="getCustomerTypeTest" />
+    </UnitTest>
+    <UnitTest name="calculateDiscountConstructorTest" storage="d:\imp study\mp ip project 2012\retailstore\retailstore\retailstore_test\bin\debug\retailstore_test.dll" id="7dc1b756-3596-66e9-fa22-69dadc8831f1">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <DeploymentItems>
+        <DeploymentItem filename="RetailStore.exe" />
+      </DeploymentItems>
+      <Execution id="d00e9a7a-df96-4b6c-888c-5825ed10831c" />
+      <TestMethod codeBase="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\bin\Debug\RetailStore_Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RetailStore_Test.calculateDiscountTest, RetailStore_Test" name="calculateDiscountConstructorTest" />
+    </UnitTest>
+    <UnitTest name="getNetAmountTest" storage="d:\imp study\mp ip project 2012\retailstore\retailstore\retailstore_test\bin\debug\retailstore_test.dll" id="c4a7ab70-0280-bca8-0d0f-ff27f04c1b32">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <DeploymentItems>
+        <DeploymentItem filename="RetailStore.exe" />
+      </DeploymentItems>
+      <Execution id="1f0e1cd2-44ea-4a4c-9234-13e9ee032a04" />
+      <TestMethod codeBase="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\bin\Debug\RetailStore_Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RetailStore_Test.calculateDiscountTest, RetailStore_Test" name="getNetAmountTest" />
+    </UnitTest>
+    <UnitTest name="GetPercentageDiscountTest" storage="d:\imp study\mp ip project 2012\retailstore\retailstore\retailstore_test\bin\debug\retailstore_test.dll" id="f0b5acef-16eb-e611-f026-506b6f780f21">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <DeploymentItems>
+        <DeploymentItem filename="RetailStore.exe" />
+      </DeploymentItems>
+      <Execution id="a28d7682-1c87-4a55-8cd7-5dd014d25bca" />
+      <TestMethod codeBase="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\bin\Debug\RetailStore_Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RetailStore_Test.calculateDiscountTest, RetailStore_Test" name="GetPercentageDiscountTest" />
+    </UnitTest>
+    <UnitTest name="getDiscountDataTest" storage="d:\imp study\mp ip project 2012\retailstore\retailstore\retailstore_test\bin\debug\retailstore_test.dll" id="6ee1d9ff-87fb-c44a-ceee-41402ddb960d">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="64abe990-0fa0-4a93-9c23-1f144fa735a1" />
+      <TestMethod codeBase="D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\bin\Debug\RetailStore_Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RetailStore_Test.getDataTest, RetailStore_Test" name="getDiscountDataTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0dbd8dd6-d3a4-00ca-160b-242abd07d1e4" executionId="19746ed8-8a0c-4bcc-a7b6-d457b06b5d34" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ee1d9ff-87fb-c44a-ceee-41402ddb960d" executionId="ed36f47f-89cd-4592-9741-393b7746496d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f0b5acef-16eb-e611-f026-506b6f780f21" executionId="29d53ed0-dd56-4d32-8d42-2f79eac8a994" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c4a7ab70-0280-bca8-0d0f-ff27f04c1b32" executionId="258fa482-d715-4cbf-8570-90c09278044a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7dc1b756-3596-66e9-fa22-69dadc8831f1" executionId="724f846a-9948-41ac-97ce-df0431a32fe1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="19746ed8-8a0c-4bcc-a7b6-d457b06b5d34" testId="0dbd8dd6-d3a4-00ca-160b-242abd07d1e4" testName="getCustomerTypeTest" computerName="JMD-MPIP" duration="00:00:00.0679789" startTime="2012-04-10T11:29:23.6169748+05:30" endTime="2012-04-10T11:29:23.9913754+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Method Working Correct</Message>
+          <StackTrace>   at RetailStore_Test.getDataTest.getCustomerTypeTest() in D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\getDataTest.cs:line 31
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ed36f47f-89cd-4592-9741-393b7746496d" testId="6ee1d9ff-87fb-c44a-ceee-41402ddb960d" testName="getDiscountDataTest" computerName="JMD-MPIP" duration="00:00:00.4992009" startTime="2012-04-10T11:29:24.0069755+05:30" endTime="2012-04-10T11:29:24.5061764+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="29d53ed0-dd56-4d32-8d42-2f79eac8a994" testId="f0b5acef-16eb-e611-f026-506b6f780f21" testName="GetPercentageDiscountTest" computerName="JMD-MPIP" duration="00:00:00" startTime="0001-01-01T05:30:00.0000000+05:30" endTime="0001-01-01T05:30:00.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="258fa482-d715-4cbf-8570-90c09278044a" testId="c4a7ab70-0280-bca8-0d0f-ff27f04c1b32" testName="getNetAmountTest" computerName="JMD-MPIP" duration="00:00:00" startTime="0001-01-01T05:30:00.0000000+05:30" endTime="0001-01-01T05:30:00.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+    <UnitTestResult executionId="724f846a-9948-41ac-97ce-df0431a32fe1" testId="7dc1b756-3596-66e9-fa22-69dadc8831f1" testName="calculateDiscountConstructorTest" computerName="JMD-MPIP" duration="00:00:00" startTime="0001-01-01T05:30:00.0000000+05:30" endTime="0001-01-01T05:30:00.0000000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

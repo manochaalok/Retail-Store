@@ -1,0 +1,8 @@
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\bin\Debug\RetailStore.exe
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\bin\Debug\RetailStore.pdb
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\obj\Debug\ResolveAssemblyReference.cache
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\obj\Debug\RetailStore.Form1.resources
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\obj\Debug\RetailStore.Properties.Resources.resources
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\obj\Debug\RetailStore.csproj.GenerateResource.Cache
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\obj\Debug\RetailStore.exe
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore\obj\Debug\RetailStore.pdb

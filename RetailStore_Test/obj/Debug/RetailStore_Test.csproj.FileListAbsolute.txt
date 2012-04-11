@@ -1,0 +1,9 @@
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\bin\Debug\RetailStore_Test.dll
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\bin\Debug\RetailStore_Test.pdb
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\bin\Debug\RetailStore.exe
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\bin\Debug\RetailStore.pdb
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\bin\Debug\RetailStore_Accessor.dll
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\bin\Debug\RetailStore_Accessor.pdb
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\obj\Debug\ResolveAssemblyReference.cache
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\obj\Debug\RetailStore_Test.dll
+D:\imp study\MP IP PROJECT 2012\RetailStore\RetailStore\RetailStore_Test\obj\Debug\RetailStore_Test.pdb

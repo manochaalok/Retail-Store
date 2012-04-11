@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailStore", "RetailStore\RetailStore.csproj", "{0A6E638C-551E-4F4E-B1CF-8AE999F92771}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{177FDBB0-52A9-46BA-B9AB-263E2A3FED63}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		RetailStore1.vsmdi = RetailStore1.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetailStore_Test", "RetailStore_Test\RetailStore_Test.csproj", "{A7D86A42-F546-4C45-8B78-F33F1FE363E1}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = RetailStore1.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6E638C-551E-4F4E-B1CF-8AE999F92771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6E638C-551E-4F4E-B1CF-8AE999F92771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6E638C-551E-4F4E-B1CF-8AE999F92771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6E638C-551E-4F4E-B1CF-8AE999F92771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D86A42-F546-4C45-8B78-F33F1FE363E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D86A42-F546-4C45-8B78-F33F1FE363E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D86A42-F546-4C45-8B78-F33F1FE363E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D86A42-F546-4C45-8B78-F33F1FE363E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
